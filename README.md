@@ -3,7 +3,7 @@
 I build and modernize enterprise web apps in healthcare and fintech.</p>
 
 <p align="center">
-  <a href="https://floydantony.github.io"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-floydantony.github.io-6a4bff?logo=googlechrome&logoColor=white"></a>
+  <a href="https://floydantony.dev"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-floydantony.dev-6a4bff?logo=googlechrome&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/floyd-antony"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-floyd--antony-0A66C2?logo=linkedin&logoColor=white"></a>
   <a href="mailto:floydantony04@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-floydantony04%40gmail.com-EA4335?logo=gmail&logoColor=white"></a>
 </p>
@@ -32,7 +32,7 @@ I build and modernize enterprise web apps in healthcare and fintech.</p>
 
 ## Portfolio
 
-See my work at **[floydantony.github.io](https://floydantony.github.io)**: a parallax climb through my career, a guided tour with an AI guide named Neo, and a 3D tour inside the system. Built with Angular 22 and three.js.
+See my work at **[floydantony.dev](https://floydantony.dev)**: a parallax climb through my career, a guided tour with an AI guide named Neo, and a 3D tour inside the system. Built with Angular 22 and three.js.
 
 ## Get in touch
 
