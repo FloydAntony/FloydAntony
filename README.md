@@ -29,6 +29,6 @@ I build and modernize enterprise web apps in healthcare and fintech.</p>
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
-## Featured project
+## Get in touch
 
-**[Portfolio](https://github.com/FloydAntony/portfolio)**: a parallax climb through my career, a guided tour with an AI guide named Neo, and a 3D tour inside the system. Built with Angular 22 and three.js.
+Open to interesting conversations about Angular, healthcare software and fintech. The best way to reach me is on [LinkedIn](https://www.linkedin.com/in/floydantony) or by email.
