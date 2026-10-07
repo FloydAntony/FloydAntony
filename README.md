@@ -4,7 +4,7 @@ I build and modernize enterprise web apps in healthcare and fintech.</p>
 
 <p align="center">
   <a href="https://floydantony.github.io"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-floydantony.github.io-6a4bff?logo=googlechrome&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/floydantony"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-floydantony-0A66C2?logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/floyd-antony"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-floyd--antony-0A66C2?logo=linkedin&logoColor=white"></a>
   <a href="mailto:floydantony04@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-floydantony04%40gmail.com-EA4335?logo=gmail&logoColor=white"></a>
 </p>
 
@@ -36,4 +36,4 @@ See my work at **[floydantony.github.io](https://floydantony.github.io)**: a par
 
 ## Get in touch
 
-Open to interesting conversations about Angular, healthcare software and fintech. The best way to reach me is on [LinkedIn](https://www.linkedin.com/in/floydantony) or by email.
+Open to interesting conversations about Angular, healthcare software and fintech. The best way to reach me is on [LinkedIn](https://www.linkedin.com/in/floyd-antony) or by email.
